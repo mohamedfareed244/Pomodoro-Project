@@ -18,3 +18,4 @@ Frontend: HTML, CSS, JavaScript
 Database: MySQL
 Build Tool: Maven
 ORM: Hibernate
+Testing: JUnit, Mockito
